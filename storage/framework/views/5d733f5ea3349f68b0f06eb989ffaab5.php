@@ -1,0 +1,1 @@
+<?php echo $body; ?><?php /**PATH /home/mywhatschat/domains/mywhatschat.in/public_html/resources/views/emails/custom_email_template.blade.php ENDPATH**/ ?>
